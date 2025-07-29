@@ -10,6 +10,6 @@ String twoFer(String? name) {
 }
 
 void main() {
-  // Call the twoFer function and print its result
+  // Calling function
   print(twoFer(''));
 }
